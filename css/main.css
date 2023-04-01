@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+table {
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px 10px;
+    text-align: center;
+}
+
+/* .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+} */
